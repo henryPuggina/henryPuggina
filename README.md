@@ -1,25 +1,24 @@
-# Olá, eu sou o Henry 👋
+# Henry Puggina
 
-**Estudante de TI · Python e desenvolvimento web · Sorocaba, SP**
+**Estudante de Tecnologia da Informação | Python e Desenvolvimento Web**  
+Sorocaba, SP
 
-Estou construindo minha base em programação, com foco de estudos em **backend**, e colocando o que aprendo em prática por meio de projetos. Também tenho interesse em explorar **cibersegurança**, ainda no início dessa jornada.
+Sou estudante de Tecnologia da Informação no Senac, com formação em andamento em Programação Web. Desenvolvo minha base em Python, HTML, CSS e JavaScript por meio de estudos e projetos práticos, com foco no desenvolvimento backend e interesse em redes e cibersegurança.
 
-### 🎓 Formação
+Busco aprimorar minhas habilidades na construção de soluções organizadas e funcionais, aplicando os conhecimentos adquiridos na minha formação a desafios de programação.
 
-- Ensino médio integrado em **TI no Senac**.
+### Formação
+
+- Ensino médio integrado em **Tecnologia da Informação no Senac**.
 - Curso de **Programação Web no Senac**.
 
-### 🌱 Tecnologias que estou estudando
+### Tecnologias em estudo
 
 **Python · HTML · CSS · JavaScript**
 
-### 🛠️ Projeto em desenvolvimento
+### Projeto em desenvolvimento
 
 **Agente de estudos com IA**  
 Projeto de aprendizado com **Python e Google ADK**, voltado à organização de planos de estudo.
 
 *Código em preparação para publicação no GitHub.*
-
----
-
-📚 [Cursos e certificados](https://github.com/henryPuggina/henryPuggina/tree/main/certificados)
