@@ -1,16 +1,23 @@
-## Hi there 👋
+# Olá, eu sou o Henry 👋
 
-<!--
-**henryPuggina/henryPuggina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Estudante de TI · Python e desenvolvimento web · Sorocaba, SP**
 
-Here are some ideas to get you started:
+Estou construindo minha base em programação, com foco de estudos em **backend**, e colocando o que aprendo em prática por meio de projetos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎓 Formação e aprendizado
+
+- Ensino médio integrado em **TI no Senac**.
+- Curso de **Programação Web no Senac**.
+- Estudos de **Python na DIO** e aprendizado complementar em **IA com Alura e Google**.
+- Interesse em explorar **cibersegurança**, ainda no início dessa jornada.
+
+### 🌱 Tecnologias que estou estudando
+
+**Python · HTML · CSS · JavaScript**
+
+### 🛠️ Projeto em desenvolvimento
+
+**Agente de estudos com IA**  
+Projeto de aprendizado com **Python e Google ADK**, voltado à organização de planos de estudo.
+
+*Código em preparação para publicação no GitHub.*
