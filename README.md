@@ -2,14 +2,18 @@
 
 **Estudante de TI · Python e desenvolvimento web · Sorocaba, SP**
 
-Estou construindo minha base em programação, com foco de estudos em **backend**, e colocando o que aprendo em prática por meio de projetos.
+Estou construindo minha base em programação, com foco de estudos em **backend**, e colocando o que aprendo em prática por meio de projetos. Também tenho interesse em explorar **cibersegurança**, ainda no início dessa jornada.
 
 ### 🎓 Formação e aprendizado
 
 - Ensino médio integrado em **TI no Senac**.
 - Curso de **Programação Web no Senac**.
-- Estudos de **Python na DIO** e aprendizado complementar em **IA com Alura e Google**.
-- Interesse em explorar **cibersegurança**, ainda no início dessa jornada.
+
+Cursos complementares em destaque:
+
+- **Fundamentos de Python — DIO**.
+- **Lógica de Programação — Senai**.
+- **Imersão Engenharia de Software na Era da IA — Alura e Google**.
 
 ### 🌱 Tecnologias que estou estudando
 
